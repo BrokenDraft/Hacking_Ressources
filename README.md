@@ -16,6 +16,10 @@ https://citizenlab.ca/
 
 https://github.com/vdehors/writeups
 
+### Bug Bounty reports : 
+
+https://hackerone.com/hacktivity
+
 
 ### Public Pentest reports :
 
