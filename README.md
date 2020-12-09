@@ -11,6 +11,8 @@ https://neoslab.com/p/blog
 
 https://citizenlab.ca/
 
+https://nechudav.blogspot.com/
+
 
 ### Write up's :
 
@@ -24,6 +26,10 @@ https://hackerone.com/hacktivity
 ### Public Pentest reports :
 
 https://github.com/juliocesarfort/public-pentesting-reports
+
+https://tcm-sec.com/wp-content/uploads/2020/09/Demo-Report.pdf
+
+https://www.hackerone.com/resources/reporting/hackerone-pentest-summary-report
 
 
 ### Technical :
