@@ -15,6 +15,8 @@ https://nechudav.blogspot.com/
 
 https://en.hackndo.com/
 
+https://samcurry.net/blog/
+
 ### Write up's :
 
 https://github.com/vdehors/writeups
