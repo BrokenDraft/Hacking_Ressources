@@ -1,29 +1,44 @@
 # Hacking_Ressources
 Centralising my resources about hacking and CyberSecurity :)
 
-### Blogs :
+Lists : 
 
-https://googleprojectzero.blogspot.com/
+- Youtube channels
+- Blogs
+- Bug Bounty reports
+- Public Pentest reports
+- Technical
 
-https://gynvael.coldwind.pl/?blog=1&lang=en
 
-https://neoslab.com/p/blog
+### Youtube channels: 
 
-https://citizenlab.ca/
+[John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 
-https://nechudav.blogspot.com/
 
-https://en.hackndo.com/
+### Blogs:
 
-https://samcurry.net/blog/
+[GoogleProjectZero](https://googleprojectzero.blogspot.com/)
 
-### Write up's :
+[Gynvael](https://gynvael.coldwind.pl/?blog=1&lang=en)
 
-https://github.com/vdehors/writeups
+[Neoslab](https://neoslab.com/p/blog)
 
-### Bug Bounty reports : 
+[CitizenLab](https://citizenlab.ca/)
 
-https://hackerone.com/hacktivity
+[Nechudav](https://nechudav.blogspot.com/)
+
+[hackndo](https://en.hackndo.com/)
+
+[Samcurry](https://samcurry.net/blog/)
+
+
+### Write up's:
+
+[vdehors - Ph0wn CTF 2019](https://github.com/vdehors/writeups)
+
+### Bug Bounty reports: 
+
+[HackerOne](https://hackerone.com/hacktivity)
 
 
 ### Public Pentest reports :
@@ -35,7 +50,7 @@ https://tcm-sec.com/wp-content/uploads/2020/09/Demo-Report.pdf
 https://www.hackerone.com/resources/reporting/hackerone-pentest-summary-report
 
 
-### Technical :
+### Technical:
 
 https://github.com/The-Art-of-Hacking/h4cker
 
