@@ -14,6 +14,13 @@ Lists :
 
 [John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+
+[The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+
+[InsiderPHD](https://www.youtube.com/user/RapidBug)
+
+[Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 
 ### Blogs:
 
