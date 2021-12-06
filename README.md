@@ -11,58 +11,50 @@ Lists :
 
 
 ### Youtube channels: 
+Name | URL
+----- | -----
+John Hammond | https://www.youtube.com/c/JohnHammond010/videos
+LiveOverflow | https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+The Cyber Mentor | https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
+InsiderPHD | https://www.youtube.com/user/RapidBug
+Stok | https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
 
-[John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
-
-[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-
-[The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-
-[InsiderPHD](https://www.youtube.com/user/RapidBug)
-
-[Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 
 ### Blogs:
-
-[GoogleProjectZero](https://googleprojectzero.blogspot.com/)
-
-[Gynvael](https://gynvael.coldwind.pl/?blog=1&lang=en)
-
-[Neoslab](https://neoslab.com/p/blog)
-
-[CitizenLab](https://citizenlab.ca/)
-
-[Nechudav](https://nechudav.blogspot.com/)
-
-[hackndo](https://en.hackndo.com/)
-
-[Samcurry](https://samcurry.net/blog/)
+Name | URL
+----- | -----
+GoogleProjectZero | https://googleprojectzero.blogspot.com/
+Gynvael | https://gynvael.coldwind.pl/?blog=1&lang=en
+Neoslab | https://neoslab.com/p/blog
+CitizenLab | https://citizenlab.ca/
+Nechudav | https://nechudav.blogspot.com/
+hackndo | https://en.hackndo.com/
+Samcurry | https://samcurry.net/blog/
 
 
 ### Write up's:
-
-[vdehors - Ph0wn CTF 2019](https://github.com/vdehors/writeups)
+Name | URL
+----- | -----
+vdehors - Ph0wn CTF 2019 | https://github.com/vdehors/writeups
 
 ### Bug Bounty reports: 
-
-[HackerOne](https://hackerone.com/hacktivity)
+Name | URL
+----- | -----
+HackerOne | https://hackerone.com/hacktivity
 
 
 ### Public Pentest reports :
-
-https://github.com/juliocesarfort/public-pentesting-reports
-
-https://tcm-sec.com/wp-content/uploads/2020/09/Demo-Report.pdf
-
-https://www.hackerone.com/resources/reporting/hackerone-pentest-summary-report
+Name | URL
+----- | -----
+public-pentesting-reports | https://github.com/juliocesarfort/public-pentesting-reports
+tcm-sec demo-report | https://tcm-sec.com/wp-content/uploads/2020/09/Demo-Report.pdf
+hackerone-pentest-summary | https://www.hackerone.com/resources/reporting/hackerone-pentest-summary-report
 
 
 ### Technical:
-
-https://github.com/The-Art-of-Hacking/h4cker
-
-https://github.com/Kayzaks/HackingNeuralNetworks
-
-https://github.com/OWASP/CheatSheetSeries
-
-https://github.com/EdOverflow/bugbounty-cheatsheet
+Name | URL
+----- | -----
+The Art of Hacking  https://github.com/The-Art-of-Hacking/h4cker
+Kayzaks - HackingNeuralNetworks | https://github.com/Kayzaks/HackingNeuralNetworks
+OWASP CheaSheetSeries | https://github.com/OWASP/CheatSheetSeries
+EdOverflow bugbounty-cheatsheet | https://github.com/EdOverflow/bugbounty-cheatsheet
