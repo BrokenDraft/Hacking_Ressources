@@ -54,7 +54,7 @@ hackerone-pentest-summary | https://www.hackerone.com/resources/reporting/hacker
 ### Technical:
 Name | URL
 ----- | -----
-The Art of Hacking  https://github.com/The-Art-of-Hacking/h4cker
+The Art of Hacking | https://github.com/The-Art-of-Hacking/h4cker
 Kayzaks - HackingNeuralNetworks | https://github.com/Kayzaks/HackingNeuralNetworks
 OWASP CheaSheetSeries | https://github.com/OWASP/CheatSheetSeries
 EdOverflow bugbounty-cheatsheet | https://github.com/EdOverflow/bugbounty-cheatsheet
